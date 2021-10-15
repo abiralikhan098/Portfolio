@@ -161,10 +161,6 @@ body {
     color: var(--third-color);
 }
 
-.nav-tog {
-    border-color: var(--third-color) !important;
-}
-
 #icon {
     width: 30px;
     cursor: pointer;
